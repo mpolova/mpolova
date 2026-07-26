@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, ich bin Mariia 👋
 
-<!--
-**mpolova/mpolova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich befinde mich aktuell in der Umschulung zur Fachinformatikerin für 
+Anwendungsentwicklung (IHK-Abschluss voraussichtlich Januar 2028).
 
-Here are some ideas to get you started:
+**Was hier zu finden ist:**
+- Übungsprojekte und Code-Beispiele
+- Laufende persönliche Projekte, an denen ich mit Unterstützung von 
+  KI-Tools arbeite und dabei kontinuierlich mehr über die eingesetzten 
+  Technologien lerne
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Hintergrund:** Vor meiner Umschulung habe ich als Übersetzerin, Projektassistentin 
+sowie Content Managerin gearbeitet. Jetzt bringe ich diese analytischen und organisatorischen
+Fähigkeiten in die Softwareentwicklung ein.
+
+📍 Nürnberg | 🔧 Python, Java, SQL
