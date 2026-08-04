@@ -1,16 +1,9 @@
-### Hi, ich bin Mariia 👋
+Hi, ich bin Mariia 👋
 
-Ich befinde mich aktuell in der Umschulung zur Fachinformatikerin für 
-Anwendungsentwicklung (IHK-Abschluss voraussichtlich Januar 2028).
+Ich mache gerade eine Umschulung zur Fachinformatikerin für Anwendungsentwicklung (IHK-Abschluss voraussichtlich Januar 2028).
 
-**Was hier zu finden ist:**
-- Übungsprojekte und Code-Beispiele
-- Laufende persönliche Projekte, an denen ich mit Unterstützung von 
-  KI-Tools arbeite und dabei kontinuierlich mehr über die eingesetzten 
-  Technologien lerne
+Hier findet ihr Übungsprojekte, Code-Beispiele und ein paar persönliche Projekte, an denen ich gerade arbeite und die Technologien dahinter lerne.
 
-**Hintergrund:** Vor meiner Umschulung habe ich als Übersetzerin, Projektassistentin 
-sowie Content Managerin gearbeitet. Jetzt bringe ich diese analytischen und organisatorischen
-Fähigkeiten in die Softwareentwicklung ein.
+Vorher habe ich als Übersetzerin, Projektassistentin und Content Managerin gearbeitet. Die analytische und organisierte Arbeitsweise von damals nehme ich jetzt mit in die Softwareentwicklung.
 
 📍 Nürnberg | 🔧 Python, Java, SQL
